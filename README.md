@@ -72,5 +72,3 @@ Damit wird weiterhin **kein** `quick` verwendet (Vollformat).
 - Dark Mode Umschalter & Systemthemen-Erkennung.
 - Mehrsprachigkeit (de/en) via `Resx`.
 - Signierte Ausführung (Code Signing) für SmartScreen.
-```
-
