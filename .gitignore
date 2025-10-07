@@ -1,0 +1,67 @@
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+build/
+[Bb]uild[Ll]ogs/
+[Bb]in/
+[Oo]bj/
+
+# Visual Studio files
+.vs/
+*.vcxproj.user
+*.vcxproj.filters
+*.user
+*.suo
+*.ncb
+*.aps
+*.pch
+*.opendb
+*.opensdf
+*.sdf
+
+# Rider/IDEA files
+.idea/
+*.sln.iml
+
+# User-specific files
+*.rsuser
+*.userprefs
+*.csproj.user
+
+# Logs
+*.log
+
+# Environment variables
+.env
+
+# Package directories
+node_modules/
+packages/
+
+# Generated files
+*.dll
+*.exe
+*.pdb
+*.mdb
+*.cache
+*.ilk
+*.obj
+*.lib
+*.out
+*.iobj
+*.ipdb
+*.tlog
+*.tmp
+*.tmp_proj
+*.log
+*.vspscc
+*.vssscc
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Resharper files
+_ReSharper.Caches/
